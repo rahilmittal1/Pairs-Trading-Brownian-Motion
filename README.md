@@ -1,4 +1,6 @@
 # Quant-HFT-Project
+
+submitted lol
 AQTE
 
 project schedule + plan: https://docs.google.com/document/d/1PhWEn0zS4V4B0mUqV96uH527gyu7aF4FqAR3pIGIKPo/edit?usp=sharing
