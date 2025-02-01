@@ -1,4 +1,4 @@
-# Quant-HFT-Project
+# Optimal Pairs Trading Strategy Using Brownian Motion
 
 submitted lol
 AQTE
