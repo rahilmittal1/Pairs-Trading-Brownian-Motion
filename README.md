@@ -1,6 +1,6 @@
 # Optimal Pairs Trading Strategy Using Brownian Motion
 
-submitted lol
+
 
 
 
